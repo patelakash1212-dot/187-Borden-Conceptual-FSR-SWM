@@ -1,0 +1,14 @@
+Metric,Value,Unit,Notes
+Site area,0.115,ha,Conceptual site area
+Pre-development weighted runoff coefficient,0.46,-,Composite coefficient
+Post-development weighted runoff coefficient,0.78,-,Composite coefficient
+Pre-development 5-year peak flow,16.28,L/s,Conceptual allowable release target
+Post-development 100-year peak flow,49.14,L/s,Uncontrolled peak flow
+60 mm theoretical trial-orifice discharge,15.35,L/s,Hydraulic trial only
+Preliminary required storage,25.16,m3,Modified Rational Method
+Surface ponding storage,17.84,m3,Three conceptual ponding areas
+Storm sewer pipe storage,3.17,m3,Detailed storage table
+Drainage-structure storage,7.03,m3,Three conceptual structures
+Total available storage,28.02,m3,Surface + pipe + structures
+Preliminary storage surplus,2.86,m3,Available minus required
+Conceptual maximum ponding depth,0.20,m,Portfolio assumption
