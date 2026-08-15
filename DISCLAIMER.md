@@ -2,7 +2,7 @@
 
 This repository contains a **self-directed conceptual engineering portfolio project** prepared to demonstrate civil, municipal, land-development, stormwater-management, and Autodesk Civil 3D workflows.
 
-The material is **not**:
+The material is not:
 
 - an issued-for-construction design;
 - a municipal submission;
