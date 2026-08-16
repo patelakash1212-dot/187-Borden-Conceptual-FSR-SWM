@@ -4,7 +4,7 @@
 
 > **Portfolio Disclaimer:** This project was prepared for technical portfolio demonstration only. It is a conceptual design and is not intended for municipal approval, tender, construction, or professional engineering reliance.
 
-![Post-development drainage and stormwater management plan](assets/02-post-development-plan.jpeg)
+![Post-development drainage and stormwater management plan](assets/02-post-development-plan.jpg)
 
 ## Project Overview
 
