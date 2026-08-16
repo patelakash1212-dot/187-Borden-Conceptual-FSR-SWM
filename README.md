@@ -4,7 +4,7 @@
 
 > **Portfolio Disclaimer:** This project was prepared for technical portfolio demonstration only. It is a conceptual design and is not intended for municipal approval, tender, construction, or professional engineering reliance.
 
-![Post-development drainage and stormwater management plan](assets/02-post-development-plan.png)
+![Post-development drainage and stormwater management plan](assets/02-post-development-plan.jpeg)
 
 ## Project Overview
 
@@ -112,15 +112,15 @@ Municipal Storm Sewer Connection
 
 ### Pre-Development Drainage Plan
 
-![Pre-development drainage plan](assets/03-pre-development-plan.png)
+![Pre-development drainage plan](assets/03-pre-development-plan.jpg)
 
 ### Post-Development Drainage & Stormwater Management Plan
 
-![Post-development drainage and stormwater management plan](assets/02-post-development-plan.png)
+![Post-development drainage and stormwater management plan](assets/02-post-development-plan.jpg)
 
 ### Storm Sewer Profile
 
-![Storm sewer profile](assets/04-storm-sewer-profile.png)
+![Storm sewer profile](assets/04-storm-sewer-profile.jpg)
 
 ## Repository Files
 
